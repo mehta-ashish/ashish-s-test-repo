@@ -1,1 +1,2 @@
-alert('hey')
+alert('hey');
+alert('updated')
